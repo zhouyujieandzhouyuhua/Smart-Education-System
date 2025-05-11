@@ -1,0 +1,62 @@
+# 基于知识图谱的智慧教育系统
+
+#### 介绍
+智能教育系统+线上课程+课程推荐+知识图谱应用+智能预测考试成绩+自动组卷+ 自动阅卷+评论情感分析+语音问答+智能小助手+智能批阅中英文作文+VR学习+校园暴力预警
+
+
+
+#### 系统截图
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/1.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/2.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/3.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/4.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/5.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/6.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/7.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/8.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/9.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/10.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/11.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/12.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/13.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/14.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/15.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/16.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/17.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/18.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/19.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/20.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/21.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/22.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/23.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/24.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/25.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/26.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/27.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/28.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/29.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/30.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/31.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/32.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/33.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/34.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/35.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/36.png "在这里输入图片标题")
+
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/38.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/39.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/40.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/41.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/42.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/43.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/43.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/44.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/45.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/46.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/47.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/48.png "在这里输入图片标题")
+![输入图片说明](https://rengongzhinencourse.oss-cn-beijing.aliyuncs.com/gitee/%E8%81%94%E7%B3%BB%E6%88%91.jpg "在这里输入图片标题")
+
+
+
+
